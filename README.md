@@ -1,3 +1,4 @@
+[![Board Status](https://chuongpqvn1107.visualstudio.com/3fc5c74f-7402-469c-ad3c-a1229022977a/aa28fd71-1156-44d8-9501-c70eafbb2422/_apis/work/boardbadge/468dfdc4-bdb6-406f-896c-86d4812e7c31)](https://chuongpqvn1107.visualstudio.com/3fc5c74f-7402-469c-ad3c-a1229022977a/_boards/board/t/aa28fd71-1156-44d8-9501-c70eafbb2422/Microsoft.RequirementCategory)
 
 # AutoCADLookup
 
